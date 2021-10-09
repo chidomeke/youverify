@@ -1,0 +1,16 @@
+html, body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    width: 100vw;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: repeating-linear-gradient(45deg, red, green blue);
+}
+
+h1 {
+    font-size: 3.2em;
+    text-align: center;
+}
